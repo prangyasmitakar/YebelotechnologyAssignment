@@ -1,0 +1,17 @@
+.card{
+    /* background: radial-gradient(#ead4d4, transparent) !important; */
+    box-shadow: -2px -2px 5px grey;
+    margin-left: 5% !important;
+
+}
+div{
+    margin-top: 4%;
+}
+.img-size{
+    width: 100%;
+    padding-top: 5%;
+}
+.card-body{
+    padding-bottom: 12% !important;
+
+}
